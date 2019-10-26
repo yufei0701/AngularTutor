@@ -6,3 +6,34 @@
   width: 300px;
   border-color: cornflowerblue;
 }
+.button{
+  border-radius:5px;
+  color:black;
+  min-width:100px;
+  height:40px;
+  font-size: 18px;
+  font-family:Calibri;
+}
+.centerBox{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction: column;
+}
+.cookBox{
+  margin-top:50px;
+  margin-left:25px;
+  font-weight: bold;
+  width:200px;
+  height:80px;
+  font-size:30px;
+}
+.resultBox{
+  margin-top:30px;
+  font-weight: bold;
+}
+.resultImg{
+  margin-top:30px;
+  width:250px;
+  height:250px;
+}
